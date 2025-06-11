@@ -1,6 +1,6 @@
 {
-	"author": "Lukas Serelis",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Lukas Serelis",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
